@@ -6,7 +6,7 @@ meta:
     title: Set up 1.1.1.1 on iOS
 ---
 
-# Set up 1.1.1.1 - iOS
+# freeleague
 
 [1.1.1.1: Faster Internet](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627) is the preferred method of setting up 1.1.1.1 DNS resolver and 1.1.1.1 for Families in iOS devices. It allows you to automatically configure your phone to use 1.1.1.1 on any network you connect to, and solves iOS inability of using an alternative DNS resolver in cellular connections.
 
